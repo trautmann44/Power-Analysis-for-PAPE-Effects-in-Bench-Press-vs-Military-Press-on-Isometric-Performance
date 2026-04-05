@@ -1,0 +1,1 @@
+# Power-Analysis-for-PAPE-Effects-in-Bench-Press-vs-Military-Press-on-Isometric-Performance
