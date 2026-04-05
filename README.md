@@ -81,3 +81,4 @@ improving experimental design and reproducibility in strength research
 
 R, Monte Carlo simulation, linear mixed-effects models (lme4), TOSTER
 
+See the preregistration of the project: https://osf.io/xv9kt/overview
